@@ -103,4 +103,24 @@ PDB creation command
 .Temporary PDB creation
 .Temporary PDB deletion
 .OEM dashboard view
+
+___Challenges Faced & Solutions___
+
+__During the assignment, a few challenges were encountered:__
+
+Challenge 1: Error while creating PDB due to file path issues.
+Solution: Corrected the datafile directory path.
+
+Challenge 2: User creation failed initially due to container mismatch.
+Solution: Switched session to the correct PDB before creating the user.
+
+These challenges helped improve my understanding of Oracle Multitenant architecture.
+
+___Integrity Statement___
+
+I hereby declare that this assignment work is my own practical effort.
+All commands were executed and tested in my Oracle environment.
+Screenshots provided are original and taken during my lab practice.
+
+I understand that academic integrity and professional ethics are essential in database administration.
  
